@@ -1,0 +1,18 @@
+/*Jordy Cardenas; Cristian Corzo y Andrés Pedroza*/
+body {
+  font-family: sans-serif;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
